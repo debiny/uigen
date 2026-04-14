@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwrigth__browser_navigate",
+      "mcp__playwrigth__browser_take_screenshot",
+      "mcp__playwrigth__browser_snapshot",
+      "mcp__playwrigth__browser_fill_form",
+      "mcp__playwrigth__browser_press_key",
+      "mcp__playwrigth__browser_wait_for",
+      "mcp__playwrigth__browser_click",
+      "mcp__playwrigth__browser_tabs",
+      "mcp__playwrigth__browser_type"
+    ]
+  }
+}
