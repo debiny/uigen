@@ -34,3 +34,11 @@ Thumbs.db
 
 # vercel
 .vercel
+
+# prisma generated client
+src/generated/
+
+# arquivos de artefato
+claude
+echo
+setx
